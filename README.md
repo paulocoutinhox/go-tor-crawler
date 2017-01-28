@@ -1,6 +1,6 @@
-# Go To Crawler
+# Go Tor Crawler
 
-It get the site list and download it contents to a directory called "sites".
+It get the site list and download each site contents to a directory called "sites".
 
 # How to
 
